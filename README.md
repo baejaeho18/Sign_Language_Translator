@@ -237,3 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
     * https://github.com/Cartucho/mAP
  * Labelling tool [labelImg]
     * https://github.com/tzutalin/labelImg
+
+
+## My own
+Introduce [[ppt]](https://www.canva.com/design/DAF14wJEOtc/2wDxPNqJ_56yOYc3FR-N7w/edit)
